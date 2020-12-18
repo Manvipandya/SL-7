@@ -1,0 +1,17 @@
+/*
+	Assignment: 1 (Output)
+	Roll Number: 43227
+	Batch: Q10
+	Lab: CL7
+*/
+
+Output:
+
+Enter plaintext: hello
+
+Prime number 1: 10433
+Prime number 2: 11617
+Public key: 5
+Private key: 169649357
+Encrypted Text: �ggD
+Decrypted Text: hello
